@@ -16,3 +16,19 @@
         #031620
     );
 }
+
+/* tag names */
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--tert);
+}
+
+/* classes */
+
+.container {
+    margin: 0;
+    width: 96%;
+    
+}
